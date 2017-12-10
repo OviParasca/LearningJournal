@@ -1,2 +1,3 @@
+# Week 1
 12/4/17
 - What i learned this past few days was quite a lot in my opinion. For starters the introduction to JQuery, that was great and am very excited to go more in-depth. I'm also surprised that the JQuery framework is only 6000 lines or so? Another thing i learned was the difference between var, let, and const. I use let and var in Swift and those mean different things so it was cool to learn the difference between them and when to use them.
