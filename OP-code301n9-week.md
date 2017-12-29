@@ -1,0 +1,3 @@
+# Week 4
+12/28/17
+- This week i got more hands-on experience with AJAX and Databases. It was a bit of a hurdle to get everything working but in the end i got a better understanding and of how the server.js and index.html/js work together. I'm still not 100% with what everything in the server.js means, but with tonight's lecture i hope to ask questions to get a better understanding, i like to know what each line does, means, and what it's purpose/function is. That way i can better speak to that code whenever i'm asked and for me to know what my code is doing.
